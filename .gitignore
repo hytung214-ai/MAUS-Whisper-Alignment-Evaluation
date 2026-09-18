@@ -1,0 +1,17 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.codex
+.agents/
+data/
+src/maus/
+src/whisper/
+s17/
+*.wav
+*.m4a
+*.TextGrid
+*.words
+*.json
+results/*gold_maus_whisper.csv
+assignment_instructions*.pdf
